@@ -26,14 +26,7 @@ intract
 		<!-- Google tag (gtag.js) -->
 		<script
 			async
-			src="https://www.googletagmanager.com/gtag/js?id=G-8EHB3BY6VK"
-		></script>
-
-		<script>
-			if (
-				window.location.hostname !== 'quest-dev.intract.io' &&
-				!window.location.hostname.includes('localhost')
-			) {
+			src="https:/
 				window.dataLayer = window.dataLayer || [];
 				function gtag() {
 					dataLayer.push(arguments);
