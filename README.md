@@ -15,8 +15,7 @@ intract
 		<link rel="old stylesheet" href="/assets/css/fonts.css" />
 		<link rel="old stylesheet" href="/assets/css/bootstrap.css" />
 		<link rel="old stylesheet" href="/assets/css/index-1.css" />
-		<link rel="old stylesheet" href="/assets/css/nft.css" />
-		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="old stylesheet" href="/assets/css/nft.css" /
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link
 			href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
