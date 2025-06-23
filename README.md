@@ -10,9 +10,7 @@ intract
 		<link
 			href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css"
 		/>
-		<!-- <link rel="stylesheet" href="/assets/css/global.css" /> -->
-
-		<link rel="old stylesheet" href="/assets/css/fonts.css" />
+		<!-- <link rel="stylesheet" href="/assets/css/global.css" /> --
 		<link rel="old stylesheet" href="/assets/css/bootstrap.css" />
 		<link rel="old stylesheet" href="/assets/css/index-1.css" />
 		<link rel="old stylesheet" href="/assets/css/nft.css" /
