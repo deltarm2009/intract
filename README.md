@@ -8,9 +8,7 @@ intract
 		<link rel="icon" type="image/png" href="/logo/favicon.svg" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link
-			href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css"
-		/> --
-		<link rel="old stylesheet" href="/assets/css/bootstrap.css" />
+			href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css
 		<link rel="old stylesheet" href="/assets/css/index-1.css" />
 		<link rel="old stylesheet" href="/assets/css/nft.css" /
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
