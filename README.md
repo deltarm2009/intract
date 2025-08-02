@@ -13,8 +13,6 @@ intract
 		<link
 			href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
 			rel="stylesheet"
-		/
-			async
 			src="https:/
 				window.dataLayer = window.dataLayer || [];
 				function gtag() {
